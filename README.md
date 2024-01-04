@@ -6,5 +6,16 @@ I plan to continuously update this file by incorporating details such as country
 
 It's important to note that the information in the list is gathered from various sources on Google. Refer to the attached list in this repository for details.
 
+
+
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMGExMzhhM2QtOWE1YS00MzZiLWIxN2YtOTA1ZmJiZjcxZmIxIiwidCI6ImJhY2U5YjNmLTZjZWMtNGQyZC05NWQ1LTAwZmVjYjhkN2YzMCJ9
+
+
+<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGExMzhhM2QtOWE1YS00MzZiLWIxN2YtOTA1ZmJiZjcxZmIxIiwidCI6ImJhY2U5YjNmLTZjZWMtNGQyZC05NWQ1LTAwZmVjYjhkN2YzMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+
+
+
+
 Thanks
 Koundinya
